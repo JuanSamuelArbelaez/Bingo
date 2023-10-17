@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"bingo","l":"Comprar"},{"p":"bingo","l":"Comprar2"},{"p":"bingo","l":"Datos"},{"p":"bingo","l":"datos2"},{"p":"bingo","l":"Jugar"},{"p":"bingo","l":"Menu1"},{"p":"bingo","l":"modoJuego"},{"p":"bingo","l":"VerTablas"},{"p":"bingo","l":"Victoria"}];updateSearchResults();
